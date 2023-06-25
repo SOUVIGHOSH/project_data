@@ -1,31 +1,33 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Souvik Ghosh"
-    },
-    {
-      "id": 2,
-      "name": "Chris Mengle"
-    },
-    {
-      "id": 3,
-      "name": "Liam Adams"
-    },
-    {
-      "id": 4,
-      "name": "Darius Tanz"
-    }
-  ],
+  "tale": {
+    "users": [
+      {
+        "id": 1,
+        "name": "Souvik Ghosh"
+      },
+      {
+        "id": 2,
+        "name": "Chris Mengle"
+      },
+      {
+        "id": 3,
+        "name": "Liam Adams"
+      },
+      {
+        "id": 4,
+        "name": "Darius Tanz"
+      }
+    ],
 
-  "organizations": [
-    {
-      "id": 1,
-      "name": "Tanz insustries"
-    },
-    {
-      "id": 2,
-      "name": "Los Pollos Hermanos"
-    }
-  ]
+    "organizations": [
+      {
+        "id": 1,
+        "name": "Tanz insustries"
+      },
+      {
+        "id": 2,
+        "name": "Los Pollos Hermanos"
+      }
+    ]
+  }
 }
