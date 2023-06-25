@@ -1,33 +1,32 @@
 {
-  "tale": {
-    "users": [
-      {
-        "id": 1,
-        "name": "Souvik Ghosh"
-      },
-      {
-        "id": 2,
-        "name": "Chris Mengle"
-      },
-      {
-        "id": 3,
-        "name": "Liam Adams"
-      },
-      {
-        "id": 4,
-        "name": "Darius Tanz"
-      }
-    ],
-
-    "organizations": [
-      {
-        "id": 1,
-        "name": "Tanz insustries"
-      },
-      {
-        "id": 2,
-        "name": "Los Pollos Hermanos"
-      }
-    ]
-  }
+  "tale_users": [
+    {
+      "id": 1,
+      "name": "Souvik Ghosh"
+    },
+    {
+      "id": 2,
+      "name": "Chris Mengle"
+    },
+    {
+      "id": 3,
+      "name": "Liam Adams"
+    },
+    {
+      "id": 4,
+      "name": "Darius Tanz"
+    }
+  ],
+  "tale_posts": [
+    {
+      "id": 1,
+      "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in placerat est. Ut ultricies urna ut sapien blandit, non hendrerit enim aliquet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse quis convallis mauris. Nullam sed nisi eget erat scelerisque pellentesque nec at nisl. Curabitur vel vulputate enim. Nullam luctus tincidunt nisl, non semper purus euismod in. Aliquam congue purus ipsum, vel porttitor mi egestas eu. Quisque vitae ipsum non urna viverra consectetur. Nulla facilisi. Sed volutpat placerat tellus, a porttitor lacus tincidunt in.",
+      "author": 1
+    },
+    {
+      "id": 2,
+      "story": "Vestibulum tristique dui eu nulla accumsan feugiat. Nullam hendrerit quam lacus, nec volutpat mauris ullamcorper sit amet. Sed bibendum ultricies mi nec dignissim. Aliquam erat volutpat. Proin venenatis ante ipsum, et fermentum justo posuere non. Mauris a finibus mauris, ut maximus quam. Fusce facilisis dapibus convallis. Cras euismod nunc mi, nec cursus urna venenatis sed. Aliquam dapibus, massa eget vestibulum vulputate, lectus mauris dapibus ligula, vitae finibus nisl metus a nisl.",
+      "author": 2
+    }
+  ]
 }
