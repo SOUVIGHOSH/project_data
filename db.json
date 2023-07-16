@@ -28,5 +28,19 @@
       "story": "Vestibulum tristique dui eu nulla accumsan feugiat. Nullam hendrerit quam lacus, nec volutpat mauris ullamcorper sit amet. Sed bibendum ultricies mi nec dignissim. Aliquam erat volutpat. Proin venenatis ante ipsum, et fermentum justo posuere non. Mauris a finibus mauris, ut maximus quam. Fusce facilisis dapibus convallis. Cras euismod nunc mi, nec cursus urna venenatis sed. Aliquam dapibus, massa eget vestibulum vulputate, lectus mauris dapibus ligula, vitae finibus nisl metus a nisl.",
       "author": 2
     }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Do your own task",
+      "description": "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
+      "status": "Unstarted"
+    },
+    {
+      "id": 2,
+      "title": "Noble task",
+      "description": "I long to accomplish a great and noble task, but it is my chief duty to accomplish small tasks as if they were great and noble.",
+      "status": "Unstarted"
+    }
   ]
 }
